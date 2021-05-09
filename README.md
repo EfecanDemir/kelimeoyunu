@@ -12,10 +12,5 @@ Tüm oyuncular ve puan sıralamasında ilk beş en iyi oyuncuların verileri txt
 
 
 ## Giriş Bölümü
-![banner resmi](https://github.com/EfecanDemir/kelimeoyunu/blob/main/g%C3%B6rseller/anaekrangoruntu.JPG)
+![banner resmi](https://github.com/EfecanDemir/efecandemir.github.io/blob/main/insanvideo.mp4)
 
-## Oyun Ekranı
-![banner resmi](https://github.com/EfecanDemir/kelimeoyunu/blob/main/g%C3%B6rseller/oyunekrangoruntusu.JPG)
-
-## Soru Ekleme Bölümü
-![banner resmi](https://github.com/EfecanDemir/kelimeoyunu/blob/main/g%C3%B6rseller/sorueklemegoruntusu.JPG)
